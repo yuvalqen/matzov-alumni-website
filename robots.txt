@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://matzov-alumni.com/sitemap.xml 
+Sitemap: http://matzov-alumni.com//github/sitemap.xml 

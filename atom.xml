@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Matzov Alumni]]></title>
-  <link href="http://matzov-alumni.com/atom.xml" rel="self"/>
-  <link href="http://matzov-alumni.com/"/>
-  <updated>2014-03-15T18:23:08+02:00</updated>
-  <id>http://matzov-alumni.com/</id>
+  <link href="http://matzov-alumni.com//github/atom.xml" rel="self"/>
+  <link href="http://matzov-alumni.com//github/"/>
+  <updated>2014-03-15T18:31:20+02:00</updated>
+  <id>http://matzov-alumni.com//github/</id>
   <author>
     <name><![CDATA[Yuval Qen]]></name>
     

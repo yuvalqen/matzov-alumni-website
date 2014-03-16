@@ -30,7 +30,8 @@ jQuery(document).ready(function() {
             }
           },
           error : function (data) {
-            jQuery('.thank_you_pane').fadeIn('slow');
+            jQuery('.google-form-wrapper').fadeOut('fast');
+            jQuery('.thank_you_pane').fadeIn('fast');
             console.error(data);
           }
         })

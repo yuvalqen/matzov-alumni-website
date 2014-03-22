@@ -141,8 +141,8 @@
 
 </div></div>
 </div>
-<input type="hidden" name="draftResponse" value='[,,"11272705228483724"]
-'><input type="hidden" name="pageHistory" value="0"><input type="hidden" name="fromEmail" value="false"><input type="hidden" name="fbzx" value="11272705228483724"><div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr>
+<input type="hidden" name="draftResponse" value='[,,"-7228124920424054011"]
+'><input type="hidden" name="pageHistory" value="0"><input type="hidden" name="fromEmail" value="false"><input type="hidden" name="fbzx" value="-7228124920424054011"><div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr>
 <td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="rtl">
 <input type="submit" name="submit" value="שלח" id="ss-submit"><div class="ss-password-warning ss-secondary-text">‏לעולם אל תשלח סיסמאות באמצעות Google Forms.</div>
 </td>
@@ -167,6 +167,16 @@ $(function() {
   $("#entry_709127847").attr("placeholder", "מקום עבודה");
   $("#entry_785022346").attr("placeholder", "תפקיד");
   $("#entry_299863815").attr("placeholder", "שנת שירות אחרונה ביחידה");
+  $(".ss-navigate").before("<div class=\"spam_checkbox\"><input type=\"checkbox\" name=\"allow_emails\" value=\"yes\">אני מאשר קבלת תכנים בנוגע לכנס ופעילויות נוספות.<div class=\"error\">עליך לאשר שליחת תכנים כדי שנוכל לעדכן אותך.</div></div>");
+  $("#ss-submit").click(function (event) {
+    if (! $(".spam_checkbox input[type=checkbox]").is(":checked")) {
+      $(".spam_checkbox .error").show();
+      event.preventDefault();
+    }
+  });
+  $(".spam_checkbox input[type=checkbox]").click(function () {
+      $(".spam_checkbox .error").hide();    
+  });
 });
 </script>
 

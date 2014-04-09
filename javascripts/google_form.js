@@ -1,4 +1,8 @@
 jQuery(document).ready(function() {
+  // move submit button
+  $('#ss-submit').appendTo('#ss-form');
+  $('#navigation-table').parent().remove();
+
   //clean up empty tags
   jQuery('.google-form-wrapper p, .google-form-wrapper br')
     .filter(function() {

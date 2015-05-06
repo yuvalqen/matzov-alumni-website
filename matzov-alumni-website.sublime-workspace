@@ -75,6 +75,96 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/index.html",
+			"settings":
+			{
+				"buffer_size": 6024,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 335 files for \"azrieli\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/public/javascripts/main.js:\n    3  \n    4      ///////////////////////////////////////////////////// Your\n    5:     var venueAddress = \"Israel, Azrieli\"; // Venue\n    6      /////////////////////////////////////////////////// Adress\n    7  \n\n/Users/yuval/Dev/matzov-alumni-website/source/javascripts/main.js:\n    3  \n    4      ///////////////////////////////////////////////////// Your\n    5:     var venueAddress = \"Israel, Azrieli\"; // Venue\n    6      /////////////////////////////////////////////////// Adress\n    7  \n\n2 matches across 2 files\n\n\nSearching 335 files for \"גוש דן\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n   70      <p>בוגרי היחידה הקימו חברות רבות ומכהנים בתפקידים בכירים בתעשיה, אבל אף פעם לא התכנסנו כדי להיווכח בכל העשייה.</p>\n   71      <p>בואו להיפגש עם חבריכם מתחילת הדרך המקצועית, עם בוגרי יחידה שיצאו לדרכים שונות ועם מפקדי היחידה בעבר ובהווה, אך לכולם מכנה משותף אחד, נקודת ההתחלה.</p>\n   72:     <p>הכנס יערך ב-11 במאי בשעה 19:00 בערב בגוש דן (מיקום מדויק ימסר בהמשך במייל).</p>\n   73      <p>למה אפשר לצפות?\n   74        <ul>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n    7  \n    8    \n    9:   <meta name=\"description\" content=\"להוסיף להוסיף 6 דוברים מקצועיים גוש דן מיקום מדוייק יימסר בהמשך 2014, 11 במאי בשעה 19:00 מבוא יחידת מצו”ב קיימת שנים רבות ועברה מספר רב של גלגולים. &hellip;\">\n   10    \n   11  \n   ..\n  169  					<div class=\"icon fa fa-map-marker\"></div>\n  170  					<div class=\"info\">\n  171: 						<h3>גוש דן</h3>\n  172  						<span>מיקום מדוייק יימסר בהמשך</span>\n  173  					</div>\n\n/Users/yuval/Dev/matzov-alumni-website/source/index.html:\n   31  					<div class=\"icon fa fa-map-marker\"></div>\n   32  					<div class=\"info\">\n   33: 						<h3>גוש דן</h3>\n   34  						<span>מיקום מדוייק יימסר בהמשך</span>\n   35  					</div>\n\n4 matches across 3 files\n\n\nSearching 335 files for \"על הכנס\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n   98  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   99  							<li><a href=\"#register\">הירשם</a></li>\n  100: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  101  							<li><a href=\"#intro\">מבוא</a></li>\n  102  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n   98  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   99  							<li><a href=\"#register\">הירשם</a></li>\n  100: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  101  							<li><a href=\"#intro\">מבוא</a></li>\n  102  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   24  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26: 							<li><a href=\"#expectations\">על הכנס</a></li>\n   27  							<li><a href=\"#intro\">מבוא</a></li>\n   28  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n3 matches across 3 files\n\n\nSearching 335 files for \"על הכנס\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n   98  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   99  							<li><a href=\"#register\">הירשם</a></li>\n  100: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  101  							<li><a href=\"#intro\">מבוא</a></li>\n  102  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n   98  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   99  							<li><a href=\"#register\">הירשם</a></li>\n  100: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  101  							<li><a href=\"#intro\">מבוא</a></li>\n  102  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   24  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26: 							<li><a href=\"#expectations\">על הכנס</a></li>\n   27  							<li><a href=\"#intro\">מבוא</a></li>\n   28  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n3 matches across 3 files\n\n\nSearching 335 files for \"#schedule\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n   99  							<li><a href=\"#register\">הירשם</a></li>\n  100  							<li><a href=\"#expectations\">על הכנס</a></li>\n  101: 							<li><a href=\"#schedule\">תוכניה</a></li>\n  102  							<li><a href=\"#intro\">מבוא</a></li>\n  103  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n   99  							<li><a href=\"#register\">הירשם</a></li>\n  100  							<li><a href=\"#expectations\">על הכנס</a></li>\n  101: 							<li><a href=\"#schedule\">תוכניה</a></li>\n  102  							<li><a href=\"#intro\">מבוא</a></li>\n  103  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26  							<li><a href=\"#expectations\">על הכנס</a></li>\n   27: 							<li><a href=\"#schedule\">תוכניה</a></li>\n   28  							<li><a href=\"#intro\">מבוא</a></li>\n   29  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n3 matches across 3 files\n\n\nSearching 361 files for \"azrieli\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/javascripts/main.js:\n    3  \n    4      ///////////////////////////////////////////////////// Your\n    5:     var venueAddress = \"Israel, Azrieli\"; // Venue\n    6      /////////////////////////////////////////////////// Adress\n    7  \n\n/Users/yuval/Dev/matzov-alumni-website/public/javascripts/main.js:\n    3  \n    4      ///////////////////////////////////////////////////// Your\n    5:     var venueAddress = \"Israel, Azrieli\"; // Venue\n    6      /////////////////////////////////////////////////// Adress\n    7  \n\n/Users/yuval/Dev/matzov-alumni-website/source/javascripts/main.js:\n    3  \n    4      ///////////////////////////////////////////////////// Your\n    5:     var venueAddress = \"Israel, Azrieli\"; // Venue\n    6      /////////////////////////////////////////////////// Adress\n    7  \n\n3 matches across 3 files\n\n\nSearching 361 files for \"הרצליה\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n    7  \n    8    \n    9:   <meta name=\"description\" content=\"תוכניה תפורסם בקרוב לא יהיה משעמם בכלל! משרדי EMC ישראל רחוב המדע 7, הרצליה פיתוח 2014, 11 במאי בשעה 19:00 מבוא יחידת מצו”ב קיימת שנים רבות ועברה &hellip;\">\n   10    \n   11  \n   ..\n  163  					<div class=\"info\">\n  164  						<h3>משרדי EMC ישראל</h3>\n  165: 						<span>רחוב המדע 7, הרצליה פיתוח</span>\n  166  					</div>\n  167  				</div>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n    7  \n    8    \n    9:   <meta name=\"description\" content=\"תוכניה תפורסם בקרוב לא יהיה משעמם בכלל! משרדי EMC ישראל רחוב המדע 7, הרצליה פיתוח 2014, 11 במאי בשעה 19:00 מבוא יחידת מצו”ב קיימת שנים רבות ועברה &hellip;\">\n   10    \n   11  \n   ..\n  163  					<div class=\"info\">\n  164  						<h3>משרדי EMC ישראל</h3>\n  165: 						<span>רחוב המדע 7, הרצליה פיתוח</span>\n  166  					</div>\n  167  				</div>\n\n/Users/yuval/Dev/matzov-alumni-website/source/index.html:\n   23  					<div class=\"info\">\n   24  						<h3>משרדי EMC ישראל</h3>\n   25: 						<span>רחוב המדע 7, הרצליה פיתוח</span>\n   26  					</div>\n   27  				</div>\n\n5 matches across 3 files\n\n\nSearching 361 files for \"על הכנס\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102  <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/blog/archives/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102  <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102  <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102  <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   24  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26: 							<li><a href=\"#expectations\">על הכנס</a></li>\n   27  <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n   28  							<li><a href=\"#intro\">מבוא</a></li>\n\n5 matches across 5 files\n\n\nSearching 361 files for \"#schedule\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102: <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/blog/archives/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102: <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102:  							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102:  							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26  							<li><a href=\"#expectations\">על הכנס</a></li>\n   27:  							<li><a href=\"#schedule\">תוכניה</a></li>\n   28  							<li><a href=\"#intro\">מבוא</a></li>\n   29  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n5 matches across 5 files\n\n\nSearching 361 files for \"#expectations\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102  <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/blog/archives/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102  <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102   							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102   							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   24  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26: 							<li><a href=\"#expectations\">על הכנס</a></li>\n   27   							<li><a href=\"#schedule\">תוכניה</a></li>\n   28  							<li><a href=\"#intro\">מבוא</a></li>\n\n5 matches across 5 files\n\n\nSearching 361 files for \"schedule\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102: <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n  ...\n  194  		</section>\n  195      <!--===============================-->\n  196:     <!--== Schedule ===============-->\n  197      <!--===============================-->\n  198: <!--     <section id=\"schedule\" class=\"row\">\n  199        <div class=\"col-md-12 col-sm-12\">\n  200          <h2>תוכניה</h2>\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/blog/archives/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102: <!-- 							<li><a href=\"#schedule\">תוכניה</a></li> -->\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102:  							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n  ...\n  195  		</section>\n  196      <!--===============================-->\n  197:     <!--== Schedule ===============-->\n  198      <!--===============================-->\n  199: <!--     <section id=\"schedule\" class=\"row\">\n  200        <div class=\"col-md-12 col-sm-12\">\n  201          <h2>תוכניה</h2>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101  							<li><a href=\"#expectations\">על הכנס</a></li>\n  102:  							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  104  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/index.html:\n   55  		</section>\n   56      <!--===============================-->\n   57:     <!--== Schedule ===============-->\n   58      <!--===============================-->\n   59: <!--     <section id=\"schedule\" class=\"row\">\n   60        <div class=\"col-md-12 col-sm-12\">\n   61          <h2>תוכניה</h2>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26  							<li><a href=\"#expectations\">על הכנס</a></li>\n   27:  							<li><a href=\"#schedule\">תוכניה</a></li>\n   28  							<li><a href=\"#intro\">מבוא</a></li>\n   29  							<li class=\"current\"><a href=\"#header\">דף הבית</a></li>\n\n11 matches across 6 files\n\n\nSearching 361 files for \"בקרוב\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n    7  \n    8    \n    9:   <meta name=\"description\" content=\"תוכניה תפורסם בקרוב לא יהיה משעמם בכלל! נתארח במשרדי EMC ישראל רחוב המדע 7, הרצליה פיתוח, קומה 4. חניה (בתשלום) בחניון הבניין. 2014, 11 במאי בשעה 19 &hellip;\">\n   10    \n   11  \n   ..\n  153  					<div class=\"icon fa fa-microphone\"></div>\n  154  					<div class=\"info\">\n  155: 						<h3>תוכניה תפורסם בקרוב</h3>\n  156              <span>לא יהיה משעמם בכלל!</span>\n  157  					</div>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n    7  \n    8    \n    9:   <meta name=\"description\" content=\"תוכניה תפורסם בקרוב לא יהיה משעמם בכלל! נתארח במשרדי EMC ישראל רחוב המדע 7, הרצליה פיתוח, קומה 4. חניה (בתשלום) בחניון הבניין. 2014, 11 במאי בשעה 19 &hellip;\">\n   10    \n   11  \n   ..\n  153  					<div class=\"icon fa fa-microphone\"></div>\n  154  					<div class=\"info\">\n  155: 						<h3>תוכניה תפורסם בקרוב</h3>\n  156              <span>לא יהיה משעמם בכלל!</span>\n  157  					</div>\n\n/Users/yuval/Dev/matzov-alumni-website/source/index.html:\n   13  					<div class=\"icon fa fa-microphone\"></div>\n   14  					<div class=\"info\">\n   15: 						<h3>תוכניה תפורסם בקרוב</h3>\n   16              <span>לא יהיה משעמם בכלל!</span>\n   17  					</div>\n\n5 matches across 3 files\n\n\nSearching 361 files for \"שאול שוחט\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n  245                  <li>יוסי סעד, דירקטור ניהול מוצר, EMC</li>\n  246                  <li>ד&#8221;ר ישראל פרידר, יו&#8221;ר, א. א. פניני השקעות בע&#8221;מ</li>\n  247:                 <li>שאול שוחט, סמנכ&#8221;ל פיתוח עסקי לשעבר, Ceragon</li>\n  248                </ol>\n  249              </div>\n  ...\n  293  				    <li class=\"accordion\">\n  294  				        <a class=\"accordion-heading\">\n  295: 				        	<h4 class=\"accordion-title\">פאנל עם בוגרי מצו”ב מבכירי התעשיה (אבי ברגר, יוסי סעד, שאול שוחט ודורון קורץ)</h4>\n  296  				        	<span class=\"fa fa-arrow-circle-o-left pull-right\"></span>\n  297  				        </a>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n  245                  <li>יוסי סעד, דירקטור ניהול מוצר, EMC</li>\n  246                  <li>ד&#8221;ר ישראל פרידר, יו&#8221;ר, א. א. פניני השקעות בע&#8221;מ</li>\n  247:                 <li>שאול שוחט, סמנכ&#8221;ל פיתוח עסקי לשעבר, Ceragon</li>\n  248                </ol>\n  249              </div>\n  ...\n  293  				    <li class=\"accordion\">\n  294  				        <a class=\"accordion-heading\">\n  295: 				        	<h4 class=\"accordion-title\">פאנל עם בוגרי מצו”ב מבכירי התעשיה (אבי ברגר, יוסי סעד, שאול שוחט ודורון קורץ)</h4>\n  296  				        	<span class=\"fa fa-arrow-circle-o-left pull-right\"></span>\n  297  				        </a>\n\n/Users/yuval/Dev/matzov-alumni-website/source/index.html:\n  105                  <li>יוסי סעד, דירקטור ניהול מוצר, EMC</li>\n  106                  <li>ד\"ר ישראל פרידר, יו\"ר, א. א. פניני השקעות בע\"מ</li>\n  107:                 <li>שאול שוחט, סמנכ\"ל פיתוח עסקי לשעבר, Ceragon</li>\n  108                </ol>\n  109              </div>\n  ...\n  153  				    <li class=\"accordion\">\n  154  				        <a class=\"accordion-heading\">\n  155: 				        	<h4 class=\"accordion-title\">פאנל עם בוגרי מצו”ב מבכירי התעשיה (אבי ברגר, יוסי סעד, שאול שוחט ודורון קורץ)</h4>\n  156  				        	<span class=\"fa fa-arrow-circle-o-left pull-right\"></span>\n  157  				        </a>\n\n6 matches across 3 files\n\n\nSearching 361 files for \"שאול שוחט\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n  245                  <li>יוסי סעד, דירקטור ניהול מוצר, EMC</li>\n  246                  <li>ד&#8221;ר ישראל פרידר, יו&#8221;ר, א. א. פניני השקעות בע&#8221;מ</li>\n  247:                 <li>שאול שוחט, סמנכ&#8221;ל פיתוח עסקי לשעבר, Ceragon</li>\n  248                </ol>\n  249              </div>\n  ...\n  293  				    <li class=\"accordion\">\n  294  				        <a class=\"accordion-heading\">\n  295: 				        	<h4 class=\"accordion-title\">פאנל עם בוגרי מצו”ב מבכירי התעשיה (אבי ברגר, יוסי סעד, שאול שוחט ודורון קורץ)</h4>\n  296  				        	<span class=\"fa fa-arrow-circle-o-left pull-right\"></span>\n  297  				        </a>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n  245                  <li>יוסי סעד, דירקטור ניהול מוצר, EMC</li>\n  246                  <li>ד&#8221;ר ישראל פרידר, יו&#8221;ר, א. א. פניני השקעות בע&#8221;מ</li>\n  247:                 <li>שאול שוחט, סמנכ&#8221;ל פיתוח עסקי לשעבר, Ceragon</li>\n  248                </ol>\n  249              </div>\n  ...\n  293  				    <li class=\"accordion\">\n  294  				        <a class=\"accordion-heading\">\n  295: 				        	<h4 class=\"accordion-title\">פאנל עם בוגרי מצו”ב מבכירי התעשיה (אבי ברגר, יוסי סעד, שאול שוחט ודורון קורץ)</h4>\n  296  				        	<span class=\"fa fa-arrow-circle-o-left pull-right\"></span>\n  297  				        </a>\n\n/Users/yuval/Dev/matzov-alumni-website/source/index.html:\n  105                  <li>יוסי סעד, דירקטור ניהול מוצר, EMC</li>\n  106                  <li>ד\"ר ישראל פרידר, יו\"ר, א. א. פניני השקעות בע\"מ</li>\n  107:                 <li>שאול שוחט, סמנכ\"ל פיתוח עסקי לשעבר, Ceragon</li>\n  108                </ol>\n  109              </div>\n  ...\n  153  				    <li class=\"accordion\">\n  154  				        <a class=\"accordion-heading\">\n  155: 				        	<h4 class=\"accordion-title\">פאנל עם בוגרי מצו”ב מבכירי התעשיה (אבי ברגר, יוסי סעד, שאול שוחט ודורון קורץ)</h4>\n  156  				        	<span class=\"fa fa-arrow-circle-o-left pull-right\"></span>\n  157  				        </a>\n\n6 matches across 3 files\n\n\nSearching 361 files for \"expectations\" (regex)\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102   							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  ...\n  266  \n  267  		<!--===============================-->\n  268: 		<!--== Expectations ===============-->\n  269  		<!--===============================-->\n  270: 		<section id=\"expectations\">\n  271  		<div class=\"tab-content\">\n  272  			<h2>למה אפשר לצפות ?</h2>\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/blog/archives/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102   							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102   							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n  ...\n  266  \n  267  		<!--===============================-->\n  268: 		<!--== Expectations ===============-->\n  269  		<!--===============================-->\n  270: 		<section id=\"expectations\">\n  271  		<div class=\"tab-content\">\n  272  			<h2>למה אפשר לצפות ?</h2>\n\n/Users/yuval/Dev/matzov-alumni-website/public/blog/archives/index.html:\n   99  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n  100  							<li><a href=\"#register\">הירשם</a></li>\n  101: 							<li><a href=\"#expectations\">על הכנס</a></li>\n  102   							<li><a href=\"#schedule\">תוכניה</a></li>\n  103  							<li><a href=\"#intro\">מבוא</a></li>\n\n/Users/yuval/Dev/matzov-alumni-website/source/_includes/custom/header.html:\n   24  						<ul class=\"nav navbar-nav\" id=\"nav-items\">\n   25  							<li><a href=\"#register\">הירשם</a></li>\n   26: 							<li><a href=\"#expectations\">על הכנס</a></li>\n   27   							<li><a href=\"#schedule\">תוכניה</a></li>\n   28  							<li><a href=\"#intro\">מבוא</a></li>\n\n9 matches across 5 files\n\n\nSearching 361 files for \"???\" (regex)\n\nThe repeat operator \"?\" cannot start a regular expression.  The error occurred while parsing the regular expression: '>>>HERE>>>???'. in regular expression ???\n\n0 matches across 0 files\n\n\nSearching 361 files for \"???\"\n\n/Users/yuval/Dev/matzov-alumni-website/_deploy/index.html:\n  224              <a class=\"accordion-heading\">\n  225                <time>19:40</time>\n  226:               <h4 class=\"accordion-title\">הרצאת מורשת מצו&#8221;ב מאת ???</h4>\n  227                <span class=\"fa fa-plus-circle pull-right\"></span>\n  228              </a>\n\n/Users/yuval/Dev/matzov-alumni-website/public/index.html:\n  223              <a class=\"accordion-heading\">\n  224                <time>19:40</time>\n  225:               <h4 class=\"accordion-title\">הרצאת מורשת מצו&#8221;ב מאת ???</h4>\n  226                <span class=\"fa fa-plus-circle pull-right\"></span>\n  227              </a>\n\n/Users/yuval/Dev/matzov-alumni-website/source/index.html:\n   84              <a class=\"accordion-heading\">\n   85                <time>19:40</time>\n   86:               <h4 class=\"accordion-title\">הרצאת מורשת מצו\"ב מאת ???</h4>\n   87                <span class=\"fa fa-plus-circle pull-right\"></span>\n   88              </a>\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 24844,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_deploy/javascripts/main.js",
+			"settings":
+			{
+				"buffer_size": 10579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_includes/custom/header.html",
+			"settings":
+			{
+				"buffer_size": 1774,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/javascripts/main.js",
+			"settings":
+			{
+				"buffer_size": 10579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/custom/_styles.scss",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/screen.scss",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2866,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/javascripts/google_form.js",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/javascripts/main.js",
+			"settings":
+			{
+				"buffer_size": 10579,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -103,6 +193,20 @@
 	},
 	"file_history":
 	[
+		"/Users/yuval/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yuval/Downloads/google (1).csv",
+		"/Users/yuval/Downloads/google.csv",
+		"/Users/yuval/Dev/matzov-alumni-website/_deploy/javascripts/google_form.js",
+		"/Users/yuval/Dev/matzov-alumni-website/source/images/about_us_lines.png",
+		"/Users/yuval/Dev/matzov-alumni-website/sass/screen.scss",
+		"/Users/yuval/Dev/matzov-alumni-website/matzov-alumni-website.sublime-project",
+		"/Users/yuval/Dev/matzov-alumni-website/Rakefile",
+		"/Users/yuval/Dev/matzov-alumni-website/source/CNAME",
+		"/Users/yuval/Dev/matzov-alumni-website/_deploy/CNAME",
+		"/Users/yuval/Dev/matzov-alumni-website/robots.txt",
+		"/Users/yuval/Dev/matzov-alumni-website/_config.yml",
+		"/Users/yuval/Dev/matzov-alumni-website/studio10c-website.sublime-project",
+		"/Users/yuval/Dev/matzov-alumni-website/CNAME",
 		"/Users/yuval/Downloads/לפני השמירה של האופיס.txt",
 		"/Users/yuval/Downloads/טקסט של הטורבו ליסטר אחרי השמירה של אופיס.txt",
 		"/Users/yuval/Downloads/temp.html",
@@ -182,7 +286,6 @@
 		"/Users/yuval/Dev/mrqen/source/_includes/article.html",
 		"/Users/yuval/Dev/mrqen/.themes/foxslide/source/index.html",
 		"/Users/yuval/Dev/mrqen/source/_includes/custom/navigation.html",
-		"/Users/yuval/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/yuval/Dev/OSX-Remote-Dispatcher/osxrd.sublime-project",
 		"/Users/yuval/Dev/OSX-Remote-Dispatcher/OSXRD/OSXRD/wsgi.py",
 		"/Users/yuval/Dev/OSX-Remote-Dispatcher/OSXRD/s3utils.py",
@@ -216,6 +319,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"משה",
+			"מפקד",
+			"אל\"מ",
+			"???",
+			"expectations",
+			"שאול",
+			"שאול שוחט",
+			"בקרוב",
+			"schedule",
+			"#expectations",
+			"#schedule",
+			"על הכנס",
+			"הרצליה",
+			"azrieli",
+			"6 דוברים",
+			"#schedule",
+			"על הכנס",
+			"לשאלות",
+			"גוש דן",
+			"azrieli",
+			"location",
+			"error",
+			"thank_you_pane",
+			"margin-left",
+			"540",
+			"color",
+			"float",
+			"margin",
+			"960",
+			"margin: 0",
+			"p ",
+			"contact_us",
+			"studio10c",
+			"#{dep",
+			"studio10c",
 			"self",
 			"lower",
 			"db_ws",
@@ -308,47 +446,12 @@
 			"installed",
 			"requests",
 			"pycurl",
-			"pybing",
-			"suffix",
-			"[^<>]{20}",
-			"[^<>]^29",
-			"color=",
-			"2cfd",
-			"<b>",
-			"<h1>",
-			"gspread",
-			"time.",
-			"base64",
-			"json.",
-			"difflib",
-			"google",
-			"config",
-			"sapi",
-			"ebayItem",
-			"urllib",
-			"item.",
-			"item",
-			"item[",
-			"bad",
-			"item[",
-			"search",
-			"100",
-			"sold",
-			"^",
-			"username",
-			"jennifer_bell_design",
-			"jennifer_bell",
-			"jennifer_bell_design",
-			"fsfeatures",
-			"jenni",
-			"price",
-			"descrip",
-			"category"
+			"pybing"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
 			"",
@@ -370,8 +473,645 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3069,
+								3069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24844,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										227,
+										234
+									],
+									[
+										509,
+										516
+									],
+									[
+										1077,
+										1083
+									],
+									[
+										1320,
+										1326
+									],
+									[
+										1573,
+										1579
+									],
+									[
+										1816,
+										1822
+									],
+									[
+										2178,
+										2185
+									],
+									[
+										2537,
+										2544
+									],
+									[
+										2900,
+										2907
+									],
+									[
+										3315,
+										3322
+									],
+									[
+										3674,
+										3681
+									],
+									[
+										4037,
+										4044
+									],
+									[
+										4442,
+										4451
+									],
+									[
+										4799,
+										4808
+									],
+									[
+										5160,
+										5169
+									],
+									[
+										5561,
+										5568
+									],
+									[
+										5843,
+										5850
+									],
+									[
+										6125,
+										6132
+									],
+									[
+										6481,
+										6487
+									],
+									[
+										6694,
+										6700
+									],
+									[
+										6940,
+										6946
+									],
+									[
+										7153,
+										7159
+									],
+									[
+										7370,
+										7376
+									],
+									[
+										7708,
+										7715
+									],
+									[
+										8062,
+										8069
+									],
+									[
+										8401,
+										8408
+									],
+									[
+										8754,
+										8761
+									],
+									[
+										9111,
+										9118
+									],
+									[
+										9516,
+										9525
+									],
+									[
+										9883,
+										9892
+									],
+									[
+										10231,
+										10240
+									],
+									[
+										10589,
+										10598
+									],
+									[
+										10951,
+										10960
+									],
+									[
+										11368,
+										11381
+									],
+									[
+										11722,
+										11735
+									],
+									[
+										12061,
+										12074
+									],
+									[
+										12406,
+										12419
+									],
+									[
+										12755,
+										12768
+									],
+									[
+										13167,
+										13175
+									],
+									[
+										13409,
+										13417
+									],
+									[
+										13516,
+										13524
+									],
+									[
+										13836,
+										13844
+									],
+									[
+										14184,
+										14192
+									],
+									[
+										14422,
+										14430
+									],
+									[
+										14529,
+										14537
+									],
+									[
+										14844,
+										14852
+									],
+									[
+										15135,
+										15143
+									],
+									[
+										15242,
+										15250
+									],
+									[
+										15561,
+										15569
+									],
+									[
+										15909,
+										15914
+									],
+									[
+										16195,
+										16200
+									],
+									[
+										16411,
+										16416
+									],
+									[
+										16697,
+										16702
+									],
+									[
+										16954,
+										16959
+									],
+									[
+										17358,
+										17367
+									],
+									[
+										17662,
+										17671
+									],
+									[
+										18042,
+										18051
+									],
+									[
+										18346,
+										18355
+									],
+									[
+										18708,
+										18717
+									],
+									[
+										19006,
+										19015
+									],
+									[
+										19459,
+										19468
+									],
+									[
+										19763,
+										19772
+									],
+									[
+										20143,
+										20152
+									],
+									[
+										20447,
+										20456
+									],
+									[
+										20809,
+										20818
+									],
+									[
+										21107,
+										21116
+									],
+									[
+										21510,
+										21522
+									],
+									[
+										21723,
+										21735
+									],
+									[
+										21825,
+										21837
+									],
+									[
+										22122,
+										22134
+									],
+									[
+										22453,
+										22465
+									],
+									[
+										22666,
+										22678
+									],
+									[
+										22768,
+										22780
+									],
+									[
+										23064,
+										23076
+									],
+									[
+										23413,
+										23425
+									],
+									[
+										24059,
+										24062
+									],
+									[
+										24389,
+										24392
+									],
+									[
+										24713,
+										24716
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								24715,
+								24715
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 17,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9843.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_deploy/javascripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/_includes/custom/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								860,
+								860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/javascripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/custom/_styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sass/screen.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2827,
+								2827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "source/javascripts/google_form.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								941,
+								1055
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 70.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "source/_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1456,
+								1456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 172.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "source/javascripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -418,6 +1158,46 @@
 		"selected_items":
 		[
 			[
+				"main.",
+				"source/javascripts/main.js"
+			],
+			[
+				"index",
+				"source/index.html"
+			],
+			[
+				"google",
+				"source/javascripts/google_form.js"
+			],
+			[
+				"head",
+				"source/_includes/head.html"
+			],
+			[
+				"google_form",
+				"source/javascripts/google_form.js"
+			],
+			[
+				"styl",
+				"sass/custom/_styles.scss"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"style",
+				"sass/custom/_styles.scss"
+			],
+			[
+				"rakefi",
+				"Rakefile"
+			],
+			[
+				"cname",
+				"source/CNAME"
+			],
+			[
 				"req",
 				"requirements.txt"
 			],
@@ -446,10 +1226,6 @@
 				"public/javascripts/google_form.js"
 			],
 			[
-				"head",
-				"source/_includes/head.html"
-			],
-			[
 				"octo",
 				"_deploy/javascripts/octopress.js"
 			],
@@ -476,14 +1252,6 @@
 			[
 				"rakef",
 				"Rakefile"
-			],
-			[
-				"config",
-				"_config.yml"
-			],
-			[
-				"index",
-				"public/github/index.html"
 			],
 			[
 				"index.html",
@@ -532,10 +1300,6 @@
 			[
 				"personal/index",
 				"source/personal/index.html"
-			],
-			[
-				"style",
-				"sass/custom/_styles.scss"
 			],
 			[
 				"customstyle",

@@ -2,7 +2,7 @@
     "use strict";
 
     ///////////////////////////////////////////////////// Your
-    var venueAddress = "Hamada st. 7, Herzeliya Pituah"; // Venue
+    var venueAddress = "Arye Shenkar st. 13, Herzeliya Pituah"; // Venue
     /////////////////////////////////////////////////// Adress
 
     var fn = {

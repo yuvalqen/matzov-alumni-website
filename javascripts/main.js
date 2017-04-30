@@ -2,7 +2,7 @@
     "use strict";
 
     ///////////////////////////////////////////////////// Your
-    var venueAddress = "Weizmann st 4, tel aviv"; // Venue
+    var venueAddress = "Ze'ev Jabotinsky Rd 2, Ramat Gan"; // Venue
     /////////////////////////////////////////////////// Adress
 
     var fn = {

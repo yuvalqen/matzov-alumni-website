@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://matzov-alumni.com//github/.well-known/acme-challenge/-Tz9IdGL0BbOuy2tRPwDR1n9-h2kK2CB0Kj0y7_DJ_E
-        </loc>
-        <lastmod>2017-08-08T07:32:21+03:00</lastmod>
-    </url>
-    <url>
         <loc>http://matzov-alumni.com//github/blog/archives/</loc>
         <lastmod>2014-04-09T09:04:18+03:00</lastmod>
     </url>

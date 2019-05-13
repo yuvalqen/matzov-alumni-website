@@ -2,14 +2,14 @@
     "use strict";
 
     ///////////////////////////////////////////////////// Your
-    var venueAddress = "Atir Yeda 8, Kfar Saba"; // Venue
+    var venueAddress = "Yigal Alon 94, Tel Aviv"; // Venue
     /////////////////////////////////////////////////// Adress
 
     var fn = {
 
         // Launch Functions
         Launch: function () {
-            fn.GoogleMaps();
+            //fn.GoogleMaps();
             fn.MenuSticky();
             fn.MainSlider();
             fn.MainSliderAlign();

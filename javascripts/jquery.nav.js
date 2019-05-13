@@ -50,7 +50,7 @@
 
 		init: function() {
 			var self = this;
-			
+
 			// Introduce defaults that can be extended either
 			// globally or using an object literal.
 			self.config = $.extend({}, self.defaults, self.options, self.metadata);
@@ -59,7 +59,7 @@
 			if(self.config.filter !== '') {
 				self.$nav = self.$nav.filter(self.config.filter);
 			}
-			
+
 			//Handle clicks on the nav
 			self.$nav.on('click.onePageNav', $.proxy(self.handleClick, self));
 
@@ -146,7 +146,7 @@
 			var $link = $(e.currentTarget);
 			var $parent = $link.parent();
 			var newLoc = '#' + self.getHash($link);
-			
+
 			if(!$parent.hasClass(self.config.currentClass)) {
 				//Start callback
 				if(self.config.begin) {
@@ -183,7 +183,7 @@
 				});
 			}
 
-			e.preventDefault();
+//			e.preventDefault();
 		},
 		
 		scrollChange: function() {
@@ -216,7 +216,7 @@
 
 	OnePageNav.defaults = OnePageNav.prototype.defaults;
 
-	$.fn.onePageNav = function(options) {
+	$.fn.onePageNav = function(options) {	
 		return this.each(function() {
 			new OnePageNav(this, options).init();
 		});
